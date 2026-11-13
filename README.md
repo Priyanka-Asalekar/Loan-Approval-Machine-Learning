@@ -35,12 +35,16 @@ across 5-fold cross-validation was **98.41%**.
 
 ## Streamlit Application Features
 
-The application contains four sections: 1. **Overview** -- displays
+The application contains four sections: 
+1. **Overview** -- displays
 total applications, approved loans, rejected loans, and loan-status
-distribution. 2. **Compare Models** -- compares model performance using
-accuracy, precision, recall, and F1-score. 3. **Predict Loan** --
+distribution.
+2. **Compare Models** -- compares model performance using
+accuracy, precision, recall, and F1-score.
+3. **Predict Loan** --
 accepts applicant details and predicts the loan status using the trained
-model. 4. **Explore Data** -- displays a dataset preview, summary
+model.
+4. **Explore Data** -- displays a dataset preview, summary
 statistics, and a correlation heatmap.
 
 ## Project Files
